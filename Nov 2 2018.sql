@@ -1,5 +1,4 @@
-﻿--Removed comment on web
---Added this comment on web
+
 SELECT		TOP	(1000) B.*, 
 			A.Total 
 FROM		[NORTHWND].[dbo].[Orders] B
