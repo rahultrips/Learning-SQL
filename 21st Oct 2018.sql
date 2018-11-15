@@ -1,5 +1,5 @@
 ﻿
-/****** Script for SelectTopNRows command from SSMS  ******/
+/****** Script for SelectTopNRows command from SSMS  ***** Added comment line here */
 --Added some changes within VSCode
 --Not sure what got added
 SELECT TOP (1000) [BusinessEntityID]
